@@ -1,0 +1,23 @@
+.picture {
+    background: rgb(204, 143, 51);
+    border-radius: 2px;
+    height: 175px;
+    width: 175px;
+    position: relative;
+    margin: 1rem;
+    background-size: cover;
+    box-shadow: 0 3px 6px rgb(218, 166, 118), 0 3px 6px rgb(240, 196, 154);
+    display: inline-block;
+    text-align: left;
+  }
+  .picture> .img-container {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    background-size: cover;
+
+  }
+
+  

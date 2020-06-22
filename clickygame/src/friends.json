@@ -1,0 +1,79 @@
+[
+{
+    "id": 1,
+    "name": "Harry Potter",
+    "image": "https://im.rediff.com/movies/2011/jul/11slide1.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Hermione Granger",
+    "image": "https://vignette.wikia.nocookie.net/characters/images/a/a5/Latest_%2810%29.jpg/revision/latest?cb=20141230074301"
+  },
+   {
+    "id": 3,
+    "name": "Lucius Malfoy",
+    "image": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/other/luciusmalfoy-ch.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ron Weasley",
+    "image": "https://www.inkedmag.com/.image/ar_8:10%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTU5MDMyMzg3NDI1Njc0OTAx/harry-potter-feat.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Neville Longbottom",
+    "image": "https://cdn.onebauer.media/one/empire-images/features/560ec04850e6c513721c379e/Neville%20Longbottom-still.jpg?quality=50&width=1000&ratio=1-1&resizeStyle=aspectfit&format=jpg"
+  },
+  {
+    "id": 6,
+    "name": "Severus Snape",
+    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/a/a3/Severus_Snape.jpg/revision/latest/top-crop/width/360/height/450?cb=20150307193047"
+  },
+  {
+    "id": 7,
+    "name": "Vodemort",
+    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/6/6e/VoldemortHeadshot_DHP1.png/revision/latest/scale-to-width-down/350?cb=20161203031453"
+  },
+  {
+    "id": 8,
+    "name": "Albus Dumbledore",
+    "image": "https://vignette.wikia.nocookie.net/hogwarts-life/images/7/75/AlbusDumbledore-003.jpg/revision/latest/scale-to-width-down/310?cb=20170109115706"
+  },
+  {
+    "id": 9,
+    "name": "Dolopres Umbridge",
+    "image": "https://cdn.onebauer.media/one/empire-images/features/560ec04850e6c513721c379e/Dolores%20Umbridge%20still.jpg?quality=50&width=1000&ratio=1-1&resizeStyle=aspectfit&format=jpg"
+  },
+  {
+    "id": 10,
+    "name": "Gilderoy Lockhart",
+    "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/44/1509725936-gilderoy-lockhart.jpg?resize=480:*"
+  },
+  {
+    "id": 11,
+    "name": "Hagrid",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/RubeusHagrid.jpg/220px-RubeusHagrid.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ginny Weasley",
+    "image": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/b/40/b402a776-942a-11e3-b3c3-0017a43b2370/52fbe468ec796.image.jpg?resize=400%2C533"
+  },
+  {
+    "id": 13,
+    "name": "Molly Weasely",
+    "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-harry-potter-julie-walters.jpg"
+  },
+{
+    "id": 14,
+    "name": "Luna Lovegood",
+    "image": "https://i.pinimg.com/originals/bf/61/a6/bf61a60239da5dec604e1f27c822f153.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Mad Eye Moody",
+    "image": "https://cdn.onebauer.media/one/empire-images/features/560ec04850e6c513721c379e/Mad-Eye-still.jpg?quality=50&width=1000&ratio=1-1&resizeStyle=aspectfit&format=jpg"
+
+  }
+]
