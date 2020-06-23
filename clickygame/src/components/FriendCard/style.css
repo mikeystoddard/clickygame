@@ -1,8 +1,8 @@
 .picture {
     background: rgb(204, 143, 51);
     border-radius: 2px;
-    height: 175px;
-    width: 175px;
+    height: 200px;
+    width: 200px;
     position: relative;
     margin: 1rem;
     background-size: cover;
@@ -10,13 +10,19 @@
     display: inline-block;
     text-align: left;
   }
-  .picture> .img-container {
+  .img-container {
     height: 200px;
     width: 200px;
     position: relative;
     overflow: hidden;
-    display: inline-block;
     background-size: cover;
+
+
+  }
+  img {
+    object-fit: contain;
+    max-height:200px;
+    max-width:200px;
 
   }
 
